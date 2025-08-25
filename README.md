@@ -4,3 +4,5 @@ Para o profissional ABAP, que historicamente operou  em um ambiente mais isolado
 mais um simples diferencial, mas um alinhamento estratégico com o ecossistema  de inovação do país.
 Essa integração com a comunidade global demostra que o desenvolvimento ABAP está a frente da curva, pronto 
 para o futuro do desenvolvimento.
+
+contato linkedin:https://www.linkedin.com/in/eduardo-brumati-lifelong-learning-forever-822b00215/
