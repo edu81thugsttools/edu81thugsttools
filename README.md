@@ -5,4 +5,4 @@ a visualizações de codigos abertos.O GitHub permite que o código seja compart
  rompendo barreiras que antes inibiam a troca de informações e experiências. Explorem a ferramenta com a curiosidade de um pesquisador. 🔍 
  
 
-contato linkedin:https://www.linkedin.com/in/eduardo-brumati-lifelong-learning-forever-822b00215/
+
